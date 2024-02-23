@@ -19,8 +19,8 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) web application for effi
 
 To run this web application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/hospital-management-system.git`
-2. Clone the server repo: `https://github.com/mahi1212/Hospital-Management-Server-Site.git`
+1. Clone the repository: `git clone https://github.com/surajknkumar/HospitalManagementSystem`
+2. Clone the server repo: `https://github.com/surajknkumar/HospitalManagementSystem`
 3. Live API link: `https://hospital-management-server-site.vercel.app/`
 4. Install the dependencies for both the server and client:
    - Server: `cd server && npm install`
@@ -47,7 +47,7 @@ This project is licensed under the [MIT License](LICENSE). Create by [Mahi]
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to reach out to me at `mahi121.mr@gmail.com`. I appreciate your interest in this project!
+If you have any questions, suggestions, or feedback, please feel free to reach out to me at `surajknkumar@gmail.com`. I appreciate your interest in this project!
 
 ---
 
